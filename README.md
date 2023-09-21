@@ -7,8 +7,7 @@ Exercicios da aula 6
 
 # 📋Pré-requisitos do sistema:
 
-> Exemplo
-> 
+ Ter vscode e python instalado
 
 ## 🛠️Tecnologias utilizadas:
 
